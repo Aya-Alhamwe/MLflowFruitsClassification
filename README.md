@@ -1,4 +1,4 @@
-# 🍇 Fruits Classifier 🍎
+# Fruits Classifier 🍇
 
 ## Project Description
 
@@ -6,16 +6,16 @@
 
 ## Features
 
-- 🍏 Accurate classification of different fruit types.
-- 📱 Use of MobileNet as a base model.
-- 📊 Results logging using MLflow for experiment tracking and performance analysis.
+- Accurate classification of different fruit types 🍏.
+- Use of MobileNet as a base model 📱.
+- Results logging using MLflow for experiment tracking and performance analysis 📊.
 
 ## Project Requirements
 
-- 🐍 Python 3.x
-- 📦 TensorFlow/Keras
-- 📊 scikit-learn
-- 📡 mlflow
+- Python 3.x 🐍
+- TensorFlow/Keras 📦
+- scikit-learn 📊
+- mlflow 📡
 
 ## How to Run
 
